@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#List {
+    margin: 2% auto;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+}
